@@ -6,6 +6,7 @@ Funktionen:
 * Anzeige aller aktuellen Impftermine in Sachsen
 * Push-Benachrichtigung wenn bei ausgewählten Impfzentrum mehr als Minimalanzahl an Terminen vorhanden ist
 * Datensparsame Abfrage der Countee-API
+
 Keine Funktionen:
 * Kann keine Termine vereinbaren
 * Läuft nur auf Android 11
