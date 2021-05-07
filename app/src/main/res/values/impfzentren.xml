@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="impfzentren_array">
+        <item>Annaberg IZ</item>
+        <item>Belgern IZ</item>
+        <item>Borna IZ</item>
+        <item>Chemnitz IZ</item>
+        <item>Dresden IZ</item>
+        <item>Eich IZ</item>
+        <item>Grimma TIZ</item>
+        <item>Kamenz IZ</item>
+        <item>Leipzig Messe IZ</item>
+        <item>Löbau IZ</item>
+        <item>Mittweida IZ</item>
+        <item>Pirna IZ</item>
+        <item>Plauen TIZ</item>
+        <item>Riesa IZ</item>
+        <item>Zwickau IZ</item>
+    </string-array>
+</resources>
